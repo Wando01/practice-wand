@@ -1,1 +1,4 @@
 # practice-wand
+# Pierce Wand
+###### Pink Floyd
+This band is a **personal favorite**. I have always enjoyed the prog rock genre of music and I think Pink Floyd **encapsulates** this, which leads me to have muitlple vynyl records of this band. 

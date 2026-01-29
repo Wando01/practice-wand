@@ -5,3 +5,6 @@ This band is a **personal favorite**. I have always enjoyed the prog rock genre 
 --- 
 ### Some cool Stuff to list!
 Here are some Musicians! Freddie Mercury, Eddie Vedder, Van Halen!
+* Red Rising
+* The Great Gatsby
+* To Kill a Mockingbird

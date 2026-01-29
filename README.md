@@ -8,3 +8,4 @@ Here are some Musicians! Freddie Mercury, Eddie Vedder, Van Halen!
 * Red Rising
 * The Great Gatsby
 * To Kill a Mockingbird
+Link to MyLocations <https://github.com/Wando01/practice-wand/blob/main/MyLocation.md>
